@@ -1,0 +1,7 @@
+# npm run setup creates .dev.vars with a random organiser password.
+# Put your own key in .dev.vars; never commit it.
+OPENAI_API_KEY=""
+# Use a model available to your API project with background Responses,
+# structured outputs, reasoning.effort, and web_search support.
+OPENAI_MODEL=""
+ADMIN_PASSWORD=""

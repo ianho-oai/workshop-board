@@ -1,0 +1,14 @@
+{
+  "title": "Workshop Board",
+  "description": "Ask questions, share ideas, and explore themes together.",
+  "context": "a collaborative workshop for participants from any organisation or community",
+  "organisationLabel": "Organisation or team",
+  "organisationPlaceholder": "e.g. Design team",
+  "locale": "en",
+  "assistant": {
+    "enabled": false,
+    "name": "Workshop Assistant",
+    "context": "Help participants find reliable public resources related to the workshop topic.",
+    "searchDomains": []
+  }
+}
